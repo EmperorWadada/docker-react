@@ -9,6 +9,8 @@ function App() {
         <form>
           <p>name:</p>
           <input type="text" />
+          <p>address:</p>
+          <input type="text" />
         </form>
       </header>
     </div>
