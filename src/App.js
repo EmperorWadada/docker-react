@@ -11,6 +11,8 @@ function App() {
           <input type="text" />
           <p>address:</p>
           <input type="text" />
+          <p>CV</p>
+          <input type="file" />
         </form>
       </header>
     </div>
